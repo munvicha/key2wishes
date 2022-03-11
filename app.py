@@ -1,4 +1,5 @@
 import streamlit as st
+import streamlit_tags
 from streamlit_tags import st_tags
 import requests
 import json
